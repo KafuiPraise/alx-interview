@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 """
 function that returns a list of intergers representing the 
 pascal triangle of n:
