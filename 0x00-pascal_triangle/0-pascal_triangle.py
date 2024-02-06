@@ -1,11 +1,12 @@
 #!/usr/bin/python3
-
 """
 function that returns a list of intergers representing the 
 pascal triangle of n:
 """
 
 def pascal_triangle(n):
+    """Creates list of integers in a Pascal triangle of a given integer"""
+
     if n <= 0:
         return []
     triangle = []
